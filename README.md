@@ -3,11 +3,11 @@ Assignment from TOP Foundations course: https://www.theodinproject.com/lessons/f
 
 Learned from this project:
 
-HTML
-    Headers
-    Paragraphs
-    Ordered Lists
-    Unordered Lists
-    Links
-        local and global references
-    Images
+1. HTML
+   - Headers
+   - Paragraphs
+   - Ordered Lists
+   - Unordered Lists
+   - Links
+     - local and global references
+   - Images
